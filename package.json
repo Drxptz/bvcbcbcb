@@ -1,0 +1,24 @@
+{
+  "name": "skusfs",
+  "version": "1.0.0",
+  "description": "a simple discord bot",
+  "main": "(index.js)",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drxptz/test.git"
+  },
+  "author": "Léa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Drxptz/test/issues"
+  },
+  "homepage": "https://github.com/Drxptz/test#readme"
+}
