@@ -30,4 +30,16 @@ client.on("message", msg => {
 
 });
 
+bot.user.setStatus('available')
+bot.user.setPresence({
+    game: {
+        name: 'with depression',
+        type: "STREAMING",
+        url: "https://www.youtube.com/watch?v=2gktWH4xi1Q&ab_channel=TeeZaar"
+    }
+}
+
+
+
+
 client.login(process.env.BOT_TOKEN);
